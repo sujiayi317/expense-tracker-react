@@ -1,6 +1,14 @@
 # Getting Started with Create React App
 
+git branch -M main
+git remote add origin https://github.com/sujiayi317/expense-tracker-react.git
+git push -u origin main
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+First commit: after running npx create-react-app expense-tracker-react
+
+It gradually build a react application step by step.
 
 ## Available Scripts
 

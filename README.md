@@ -10,6 +10,8 @@ First commit: after running npx create-react-app expense-tracker-react
 
 It gradually build a react application step by step.
 
+It uses context API with hooks. When combined with other Hooks like useContext, useReducer can be a good alternative to Redux or MobX
+
 ## Available Scripts
 
 In the project directory, you can run:

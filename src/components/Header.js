@@ -1,9 +1,5 @@
-import React from 'react'
+import React from "react";
 
 export const Header = () => {
-    return (
-        <h1>
-            Expense Tracker
-        </h1>
-    )
-}
+  return <h1>Expense Tracker by Jenny</h1>;
+};
